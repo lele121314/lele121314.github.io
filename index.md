@@ -1,10 +1,12 @@
-# XinLe DU - Home
+# XinLe DU
 
 
 <!-- ## Welcome to GitHub Pages -->
 
-## Xinle Du   Ph.D student
+## Ph.D student
 Dept. of Computer Science and Technology, Tsinghua University
+
+Email:dxl18 AT mails.tsinghua.edu.cn
 
 ## Biography
 
